@@ -9,7 +9,7 @@ screen_height = 1000
 screen = pygame.display.set_mode((screen_width, screen_height))
 
 #화면 타이틀 (제목창)
-pygame.display.set_caption("예술은 폭☆8이다")
+pygame.display.set_caption("예술은 폭☆8이다 갈")
 
 #이벤트 루프 - 종료까지 대기
 running = True # 실행 중인지 확인
